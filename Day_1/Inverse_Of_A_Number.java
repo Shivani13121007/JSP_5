@@ -19,8 +19,6 @@ public static void main(String[] args) {
     pos++;
 
   }
-
-
   System.out.println(sum);
  }
 }
